@@ -126,7 +126,7 @@ For deployment:
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/django-notes-application.git
+git clone https://github.com/SumitRaj511/django-notes-application.git
 ```
 
 ---
@@ -260,7 +260,7 @@ docker compose version
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/django-notes-application.git
+git clone https://github.com/SumitRaj511/django-notes-application.git
 ```
 
 ---
