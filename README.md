@@ -401,19 +401,6 @@ python manage.py createsuperuser
 
 ---
 
-# 📈 Future Improvements
-
-- HTTPS with Let's Encrypt
-- GitHub Actions CI/CD
-- Kubernetes Deployment
-- AWS ECS
-- Monitoring using Prometheus & Grafana
-- Centralized Logging
-- Docker Secrets
-- Environment-specific Configurations
-
----
-
 # 👨‍💻 Author
 
 **Sumit Raj**
