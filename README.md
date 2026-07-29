@@ -381,9 +381,9 @@ screenshots/
 
 Then display them:
 
-## Home Page
+## Application Running
 
-<img src="screenshots/home.png" width="900">
+<img src="C:\Users\sumit\Downloads\Study-Material\DevOps\django-notes-application\screenshots\application.png" width="900">
 
 ---
 
