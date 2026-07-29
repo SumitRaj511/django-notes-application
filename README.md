@@ -357,30 +357,6 @@ python manage.py createsuperuser
 
 # 📸 Screenshots
 
-Create a folder:
-
-```
-screenshots/
-```
-
-Add images like:
-
-```
-screenshots/
-├── home.png
-├── login.png
-├── dashboard.png
-├── docker-ps.png
-├── docker-compose.png
-├── ec2-terminal.png
-├── aws-instance.png
-├── nginx-container.png
-├── mysql-container.png
-└── architecture.png
-```
-
-Then display them:
-
 ## Application Running
 
 <img src="screenshots/application.png" width="900">
