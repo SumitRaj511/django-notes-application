@@ -383,7 +383,7 @@ Then display them:
 
 ## Application Running
 
-<img src="C:\Users\sumit\Downloads\Study-Material\DevOps\django-notes-application\screenshots\application.png" width="900">
+<img src="screenshots\application.png" width="900">
 
 ---
 
