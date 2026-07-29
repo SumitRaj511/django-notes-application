@@ -293,8 +293,133 @@ docker ps
 
 ```
 http://YOUR_PUBLIC_IP
+```
 
 ---
+
+# 🔄 Useful Docker Commands
+
+Build
+
+```bash
+docker compose build
+```
+
+Start
+
+```bash
+docker compose up -d
+```
+
+Stop
+
+```bash
+docker compose down
+```
+
+Restart
+
+```bash
+docker compose restart
+```
+
+View Logs
+
+```bash
+docker compose logs
+```
+
+View Running Containers
+
+```bash
+docker ps
+```
+
+Enter Django Container
+
+```bash
+docker exec -it django_cont bash
+```
+
+Run Migrations
+
+```bash
+python manage.py migrate
+```
+
+Create Superuser
+
+```bash
+python manage.py createsuperuser
+```
+
+---
+
+# 📸 Screenshots
+
+Create a folder:
+
+```
+screenshots/
+```
+
+Add images like:
+
+```
+screenshots/
+├── home.png
+├── login.png
+├── dashboard.png
+├── docker-ps.png
+├── docker-compose.png
+├── ec2-terminal.png
+├── aws-instance.png
+├── nginx-container.png
+├── mysql-container.png
+└── architecture.png
+```
+
+Then display them:
+
+## Home Page
+
+<img src="screenshots/home.png" width="900">
+
+---
+
+## Login Page
+
+<img src="screenshots/login.png" width="900">
+
+---
+
+## Dashboard
+
+<img src="screenshots/dashboard.png" width="900">
+
+---
+
+## Docker Containers
+
+<img src="screenshots/docker-ps.png" width="900">
+
+---
+
+## Docker Compose Running
+
+<img src="screenshots/docker-compose.png" width="900">
+
+---
+
+## EC2 Deployment
+
+<img src="screenshots/ec2-terminal.png" width="900">
+
+---
+
+## AWS EC2 Instance
+
+<img src="screenshots/aws-instance.png" width="900">
 
 ---
 
