@@ -383,7 +383,7 @@ Then display them:
 
 ## Application Running
 
-<img src="screenshots\application.png" width="900">
+<img src="screenshots/application.png" width="900">
 
 ---
 
